@@ -1,5 +1,5 @@
 {
-    "name": "phenx/php-font-lib",
+    "name": "eduardoturconi/php-font-lib",
     "type": "library",
     "description": "A library to read, parse, export and make subsets of different types of font files.",
     "homepage": "https://github.com/PhenX/php-font-lib",
